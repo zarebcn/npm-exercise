@@ -1,0 +1,6 @@
+p {
+  color: red;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  display-direction: row; }

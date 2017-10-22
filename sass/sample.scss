@@ -1,0 +1,7 @@
+$color: red;
+
+p {
+  color: $color;
+  display: flex;
+  display-direction: row;
+}
